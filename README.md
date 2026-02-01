@@ -33,12 +33,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=9meows&theme=tokyonight&border_radius=5.5&locale=ru&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=1000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9meows&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ---
-
 ### 📫 Contact Me
 
 <a href="hhttps://t.me/ninemeows"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
