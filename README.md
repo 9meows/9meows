@@ -21,6 +21,7 @@
 | Year |       Event          |                    Competition               |     Result     |
 |:----:|:--------------------:|:--------------------------------------------:|:--------------:|
 | 2025 |        1/4 ICPC      |     ICPC Central Russia Regional Contest     | [🏅 Certificate](https://github.com/9meows/achievements/blob/main/icpc-cerf1.pdf) |
+| 2024 |        1/4 ICPC      |     ICPC Central Russia Regional Contest     | [🏅 Certificate](https://github.com/9meows/achievements/blob/main/icpc-cerf2.pdf) |
 
 
 
@@ -30,9 +31,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=9meows&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9meows&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9meows&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9meows&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
