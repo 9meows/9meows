@@ -20,7 +20,7 @@
 
 | Year |       Event          |                    Competition               |     Result     |
 |:----:|:--------------------:|:--------------------------------------------:|:--------------:|
-| 2025 |        1/4 ICPC      |     ICPC Central Russia Regional Contest     | [🏅 Certificate](https://github.com/9meows/achievements/blob/main/icpc-cerf1.pdf) |
+| 2025 |        1/4 ICPC      |     ICPC Central Russia Regional Contest     | [🏅 Certificate](https://github.com/9meows/achievements/blob/main/cerf1.pdf) |
 | 2024 |        1/4 ICPC      |     ICPC Central Russia Regional Contest     | [🏅 Certificate](https://github.com/9meows/achievements/blob/main/icpc-cerf2.pdf) |
 
 
