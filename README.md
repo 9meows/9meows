@@ -1,16 +1,44 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=500&lines=Backend+Developer)](https://git.io/typing-svg)
 
-<!--
-**9meows/9meows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi there, I'm <a href="https://t.me/ninemeows" target="_blank">Misha</a> 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/aiogram%20-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Docker_Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
+---
+
+### 🏆 Achievements
+
+| Year |       Event          |                    Competition               |     Result     |
+|:----:|:--------------------:|:--------------------------------------------:|:--------------:|
+| 2025 |        1/4 ICPC      |     ICPC Central Russia Regional Contest     | [🏅 Certificate](https://github.com/9meows/achievements/blob/main/icpc-cerf1.pdf) |
+
+
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=9meows&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9meows&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+### 📫 Contact Me
+
+<a href="hhttps://t.me/ninemeows"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
